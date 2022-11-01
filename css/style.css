@@ -1,5 +1,5 @@
 .head{
-    width: 1250px;
+    width: 1200px;
     height: 120px;
     margin-left: auto;
     margin-right: auto;
@@ -7,8 +7,7 @@
 }
 
 #header{
-    background-image: url(https://areeetta.github.io/jas/img/tema3.jpg);
-    
+    background-image: url(C:/xampp/htdocs/конкурс/img/tema3.jpg);
     margin-right: auto;
     margin-left: auto;
     width: 1170px;
@@ -17,19 +16,19 @@
   }
 .name{
     /* text-align: center; */
-    margin-left: 545px;
+    margin-left: 507px;
     font-weight: 700;
-    color:rgb(240, 224, 224);
+    color:rgb(0, 0, 0);
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
-    bottom: 100px;
-    margin-top: 20px;
+    bottom: 50px;
+    margin-top: 10px;
 }
 .ivent{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(233, 57, 107);
+    color:rgb(0, 0, 0);
     float: left;
     margin-top: -30px;
     margin-left: 50px;
@@ -52,7 +51,7 @@
     color:rgb(42, 4, 15);
     float: right;
     margin-top: -30px;
-    margin-right: 50px;
+    margin-right: 80px;
     
     font-weight: 700;
 }
@@ -62,7 +61,7 @@
     color:rgb(233, 57, 107);
     float: right;
     margin-top: -30px;
-    margin-right: 130px;
+    margin-right: 125px;
    
     font-weight: 700;
 }
