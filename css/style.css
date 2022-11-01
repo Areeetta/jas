@@ -1,63 +1,80 @@
 .head{
     width: 1250px;
-    height: 90px;
-    background-color: rgb(116, 12, 12);
+    height: 120px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
 }
+
+#header{
+    background-image: url(C:/xampp/htdocs/конкурс/img/oblozhka.png);
+    margin-right: auto;
+    margin-left: auto;
+    width: 1250px;
+    height: 120px;
+    border-radius: 15px;
+  }
 .name{
     /* text-align: center; */
     margin-left: 545px;
     font-weight: 700;
-    color:rgb(233, 57, 107);
+    color:rgb(240, 224, 224);
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     bottom: 100px;
+    margin-top: 20px;
 }
 .ivent{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(233, 57, 107);
     float: left;
-    margin-top: -40px;
+    margin-top: -30px;
     margin-left: 50px;
+    
+    font-weight: 700;
 }
 .gfnbkx{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(233, 57, 107);
     float: left;
-    margin-top: -40px;
-    margin-left: 250px;
+    margin-top: -30px;
+    margin-left: 140px;
+    
+    font-weight: 700;
 }
 .onas{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(42, 4, 15);
     float: right;
-    margin-top: -40px;
+    margin-top: -30px;
     margin-right: 50px;
+    
+    font-weight: 700;
 }
 .zizn{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(233, 57, 107);
     float: right;
-    margin-top: -40px;
-    margin-right: 270px;
+    margin-top: -30px;
+    margin-right: 130px;
+   
+    font-weight: 700;
 }
 .master{
     float: left;
-    margin-left: 950px;
-    margin-top: 50px;
+    margin-left: 1010px;
+    margin-top: 40px;
    
 }
 .klan{
     float: left;
     margin-top: -100px;
-    margin-left: 70px;
+    margin-left: 80px;
 }
 .bzp{
     float: right;
@@ -72,221 +89,219 @@
 }
 .sborkx{
     float: left;
-    margin-left: 490px;
-    margin-top: 20px;
+    margin-left: 260px;
+    margin-top: 40px;
 }
 .osnova{
     margin-right: auto;
     margin-left: -40px;
     font-weight: 700;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
-    padding: 300px;
+    padding: 310px;
 }
 .cdtn1{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 80px;
-    margin-top: -270px;
+    margin-left: 150px;
+    margin-top: -290px;
     font-weight: 700;
     font-size: 20px;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;   
 }
 .pati1{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 50px;
-    margin-top: -240px;
+    margin-left: 120px;
+    margin-top: -263px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .cdtn2{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 80px;
-    margin-top: -270px;
+    margin-top: -290px;
     font-weight: 700;
     font-size: 20px;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;   
 }
 .pati2{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 50px;
-    margin-top: -240px;
+    margin-top: -263px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .cdtn3{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 80px;
-    margin-top: -270px;
+    margin-top: -290px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;   
     font-style: italic;
 }
 .pati3{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 50px;
-    margin-top: -240px;
+    margin-top: -265px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .cdtn4{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 80px;
-    margin-top: -270px;
+    margin-top: -290px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;  
     font-style: italic;
 }
 .pati4{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
     margin-left: 50px;
-    margin-top: -240px;
+    margin-top: -265px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .cdtn5{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 370px;
-    margin-top: -50px;
+    margin-left: 455px;
+    margin-top: 0px;
     font-weight: 700;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;   
+    font-family: 'Times New Roman', Times, serif;  
     font-style: italic;
 }
 .pati5{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 370px;
-    margin-top: -20px;
+    margin-left: -257px;
+    margin-top: 30px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .cdtn6{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 100px;
-    margin-top: -50px;
+    margin-left: 65px;
+    margin-top: 0px;
     font-weight: 700;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;   
+    font-family: 'Times New Roman', Times, serif;  
     font-style: italic;
 }
 .pati6{
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: 90px;
-    margin-top: -20px;
+    margin-left: -274px;
+    margin-top: 30px;
     font-weight: 700;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
 .reserv{
     font-weight: 700;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
-    padding: 70px;
+    padding: 85px;
     margin-left: -40px;
 }
 .textbzp{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: -100px;
+    bottom: -80px;
     left:100px;
 }
 .textbzp1{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: -160px;
+    bottom: -170px;
     left:10px;
 }
 .textbzp2{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
-   
     float: left;
     position: relative;
-    bottom: -170px;
+    bottom: -165px;
     left:190px;
 }
 .textbzp3{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
-
     float: left;
     position: relative;
-    bottom: -185px;
+    bottom: -195px;
     left:160px;
 }
 .textbzp4{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
    
     float: left;
     position: relative;
-    bottom: -185px;
+    bottom: -195px;
     left:130px;
 }
 .textbzp5{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
    
     float: left;
     position: relative;
-    bottom: -185px;
+    bottom: -195px;
     left:80px;
 }
 .textbzp6{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
    
     float: left;
     position: relative;
-    bottom: -185px;
+    bottom: -195px;
     left:130px;
 }
 .photka1{
@@ -306,13 +321,13 @@
 }
 .photka4{
     float: left;
-    margin-top: 350px;
+    margin-top: 349px;
     margin-left: -1080px;
 }
 .photka5{
     float: left;
-    margin-top: 350px;
-    margin-left: -690px;
+    margin-top: 95px;
+    margin-left: 90px;
 }
 .photka6{
     float: left;
@@ -352,15 +367,15 @@
 .text1{
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     float: left;
-    margin-left: -220px;
-    margin-top: -450px;
+    margin-left: -100px;
+    margin-top: -440px;
 }
 .text2{
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     float: left;
     margin-left: -480px;
@@ -369,16 +384,16 @@
 .text3{
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     float: left;
-    margin-left: 680px;
-    margin-top: -140px;
+    margin-left: 950px;
+    margin-top: -150px;
 }
 .textbzp11{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -390,7 +405,7 @@
 .textbzp12{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -402,67 +417,79 @@
 .textbzp13{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 350px;
-    left: 30px;
+    bottom: 430px;
+    left: 240px;
+}
+.textbzp131{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 239, 238);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    position: relative;
+    bottom: 400px;
+    left: 60px;
 }
 .textbzp14{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 320px;
-    left: -390px;
+    bottom: 370px;
+    left: -299px;
 }
 .textbzp15{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 280px;
+    bottom: 270px;
     left: 635px;
 }
 .textbzp16{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 240px;
+    bottom: 220px;
     left: 270px;
 }
 .textbzp17{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 200px;
-    left: -190px;
+    bottom: 190px;
+    left: -210px;
 }
 .textbzp18{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -474,34 +501,35 @@
 .textbzp19{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 150px;
+    bottom: 160px;
     left: 145px;
 }
 .textbzp21{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(249, 225, 209);
+    color:rgb(255, 239, 238);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     float: left;
     position: relative;
-    bottom: 110px;
+    bottom: 130px;
     left: -140px;
 }
 .priem{
     float: left;
-    margin-top: 30px;
-    margin-left: 1050px;
+    margin-top: 100px;
+    margin-left: 1100px;
+    
 }
 .priem2{
     float: left;
-    margin-top: -400px;
+    margin-top: -200px;
     margin-left: 60px;   
 }
